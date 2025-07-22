@@ -1,1 +1,0 @@
-# Parser específico para Light
