@@ -1,3 +1,2 @@
-# Leitor de Contas de Luz - Flora Energia
-
-Ferramenta completa para extração de dados estruturados de contas de luz em PDF.
+# Extrator de Contas de Luz - Flora Energia
+Versão completa com parsing por distribuidora.
